@@ -1,4 +1,4 @@
-# Deen Neural Network
+# Deen Neural Network from scratch using vectorization
 
 In this project, we construct a Deep Neural Network (DNN) with the following specifications: 
 
